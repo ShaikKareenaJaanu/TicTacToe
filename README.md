@@ -7,11 +7,17 @@ This documentation provides a comprehensive guide to the Tic-Tac-Toe game implem
 ##Table of Contents
 
 *Installation
+
 *Usage
+
 *Code Structure
+
 *Function Descriptions
+
 *Global Variables
+
 *GUI Components
+
 *Features
 
 ##Code Structure
