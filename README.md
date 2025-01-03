@@ -6,22 +6,15 @@ This documentation provides a comprehensive guide to the Tic-Tac-Toe game implem
 
 ##Table of Contents
 
-*Installation
-
-*Usage
-
-*Code Structure
-
-*Function Descriptions
-
-*Global Variables
-
-*GUI Components
-
-*Features
+*Installation <br>
+*Usage <br>
+*Code Structure <br>
+*Function Descriptions <br>
+*Global Variables <br>
+*GUI Components <br>
+*Features <br>
 
 ##Code Structure
-
 The code is structured into several key components:
 
 IMPORTS: Necessary modules from Tkinter for GUI creation and dialog handling.
