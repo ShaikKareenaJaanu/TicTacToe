@@ -62,7 +62,7 @@ def update_score(winner)->int:
         messagebox.showinfo("Game Over", f"Final Scores:\n{player1}: {scores[0]}\n{player2}: {scores[1]}")
         root.quit()
 
-def update_score_labels()->INT:
+def update_score_labels()->int:
     score_label1.config(text=f"{player1}: {scores[0]}")
     score_label2.config(text=f"{player2}: {scores[1]}")
 
