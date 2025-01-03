@@ -15,12 +15,18 @@ This documentation provides a comprehensive guide to the Tic-Tac-Toe game implem
 *Features <br>
 
 ##CODE STRUCTURE <br>
+
+
 The code is structured into several key components: <br>
 
-IMPORTS: Necessary modules from Tkinter for GUI creation and dialog handling. <br>
-GLOBAL VARIABLES: Variables to manage game state, player information, and scores. <br>
-FUNCTIONS: Defined to handle game logic, user interactions, and GUI updates. <br>
-GUI COMPONENTS: Labels and buttons to create the game interface. <br>
+IMPORTS:<br>
+Necessary modules from Tkinter for GUI creation and dialog handling. <br>
+GLOBAL VARIABLES: <br>
+Variables to manage game state, player information, and scores. <br>
+FUNCTIONS:<br>
+Defined to handle game logic, user interactions, and GUI updates. <br>
+GUI COMPONENTS:<br>
+Labels and buttons to create the game interface. <br>
 
 
 ##Function Descriptions
