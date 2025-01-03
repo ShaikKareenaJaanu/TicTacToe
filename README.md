@@ -1,9 +1,11 @@
 #TIC_TAC_TOE 
 
-##Overview
+##Overview  
+
 This documentation provides a comprehensive guide to the Tic-Tac-Toe game implemented using the Tkinter library in Python. The game allows two players to compete against each other, keeping track of scores and rounds.
 
 ##Table of Contents
+
 *Installation
 *Usage
 *Code Structure
@@ -13,6 +15,7 @@ This documentation provides a comprehensive guide to the Tic-Tac-Toe game implem
 *Features
 
 ##Code Structure
+
 The code is structured into several key components:
 
 IMPORTS: Necessary modules from Tkinter for GUI creation and dialog handling.
@@ -21,6 +24,7 @@ FUNCTIONS: Defined to handle game logic, user interactions, and GUI updates.
 GUI COMPONENTS: Labels and buttons to create the game interface.
 
 ##Function Descriptions
+
 get_player_info() -> str
 Prompts players for their names and the total number of rounds to play. Initializes the game by creating buttons and resetting the game state.
 
