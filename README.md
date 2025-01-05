@@ -4,17 +4,17 @@
 
 This documentation provides a comprehensive guide to the Tic-Tac-Toe game implemented using the Tkinter library in Python. The game allows two players to compete against each other, keeping track of scores and rounds.
 
-##Table of Contents
+## Table of Contents
 
-*Installation <br>
-*Usage <br>
-*Code Structure <br>
-*Function Descriptions <br>
-*Global Variables <br>
-*GUI Components <br>
-*Features <br>
+* Installation <br>
+* Usage <br>
+* Code Structure <br>
+* Function Descriptions <br>
+* Global Variables <br>
+* GUI Components <br>
+* Features <br>
 
-##CODE STRUCTURE <br>
+## CODE STRUCTURE <br>
 
 
 The code is structured into several key components: <br>
@@ -29,7 +29,7 @@ GUI COMPONENTS:<br>
 Labels and buttons to create the game interface. <br>
 
 
-##Function Descriptions
+## Function Descriptions
 
 
 get_player_info() -> str <br>
@@ -57,7 +57,7 @@ toggle_player() -> str <br>
 Switches the current player and updates the turn label on the GUI. <br>
 
 
-##Global Variables <br>
+## Global Variables <br>
 
 
 buttons: List to hold button widgets for the Tic-Tac-Toe grid. <br>
@@ -69,18 +69,18 @@ player1, player2: Strings to store the names of the players. <br>
 total_rounds: Integer to specify how many rounds will be played.<br>
 
 
-#GUI COMPONNTS <br>
+# GUI COMPONNTS <br>
 
 
 LABLES: Display player scores and whose turn it is. <br>
 BUTTONS: Represent the Tic-Tac-Toe grid, allowing players to make their moves. <br>
 
 
-##FEATURES
+# FEATURES
 
 
-*Players can enter their names and specify the number of rounds. <br>
-*The game tracks scores and announces the winner after each round. <br>
-*The game concludes after the specified number of rounds, displaying final scores. <br>
+* Players can enter their names and specify the number of rounds. <br>
+* The game tracks scores and announces the winner after each round. <br>
+* The game concludes after the specified number of rounds, displaying final scores. <br>
 
 
