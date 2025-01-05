@@ -32,28 +32,28 @@ Labels and buttons to create the game interface. <br>
 ## Function Descriptions
 
 
-get_player_info() -> str <br>
+* get_player_info() -> str <br>
 Prompts players for their names and the total number of rounds to play. Initializes the game by creating buttons and resetting the game state. <br> 
 
-create_buttons() -> None <br>
+* create_buttons() -> None <br>
 Creates a 3x3 grid of buttons for the Tic-Tac-Toe game and adds them to the GUI. <br>
 
-check_winner() -> None <br>
+* check_winner() -> None <br>
 Checks for a winning combination or a draw after each move. Updates the UI to indicate the winner or a draw. <br>
 
-update_score(winner) -> int <br>
+* update_score(winner) -> int <br>
 Updates the scores based on the winner of the round. Checks if the game should continue or end after the specified number of rounds. <br>
 
-update_score_labels() -> None <br>
+* update_score_labels() -> None <br>
 Updates the displayed scores for both players on the GUI.<br>
 
-reset_game() -> None <br>
+* reset_game() -> None <br>
 Resets the game state for a new round, clearing the buttons and updating the current player. <br>
 
-button_click(index) -> None <br>
+* button_click(index) -> None <br>
 Handles the button click event, updates the button text, checks for a winner, and toggles the current player. <br>
 
-toggle_player() -> str <br>
+* toggle_player() -> str <br>
 Switches the current player and updates the turn label on the GUI. <br>
 
 
