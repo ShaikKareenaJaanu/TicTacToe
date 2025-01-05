@@ -6,13 +6,56 @@ This documentation provides a comprehensive guide to the Tic-Tac-Toe game implem
 
 ## Table of Contents
 
-* Installation <br>
-* Usage <br>
+* Features<br>
 * Code Structure <br>
 * Function Descriptions <br>
 * Global Variables <br>
 * GUI Components <br>
-* Features <br>
+* Conclusion<br>
+
+
+## FEATURES
+
+
+* Players can enter their names and specify the number of rounds. <br>
+* The game tracks scores and announces the winner after each round. <br>
+* The game concludes after the specified number of rounds, displaying final scores. <br>
+
+
+* Player Name Input and Round Specification:<br>
+
+Players can enter their names and specify the number of rounds they wish to play at the start of the game.
+The game prompts for Player 1's name (X) and Player 2's name (O) or allows Player 2 to be an AI.<br>
+
+* Dynamic Game Board<br>
+
+A 3x3 grid of buttons is created dynamically for the Tic-Tac-Toe game.
+Players click on the buttons to place their marks (X or O).<br> 
+
+* Score Tracking<br>
+
+The game keeps track of scores for both players throughout the rounds.
+Scores are displayed and updated after each round.<br>
+
+* Winner Announcement<br>
+
+After each round, the game checks for a winner or a draw.
+A message box displays the winner's name or announces a draw.<br>
+
+* Game Conclusion<br>
+
+The game automatically concludes after the specified number of rounds.
+Final scores are displayed in a message box at the end of the game.<br>
+
+* Highlight Winning Line<br>
+
+When a player wins, the winning line (row, column, or diagonal) is visually highlighted in green.
+This feature enhances the visual feedback for players.<br> 
+
+* User Interface Elements<br>
+
+Labels are used to display player scores and the current player's turn.
+The interface is designed to be intuitive and easy to navigate.<br>
 
 ## CODE STRUCTURE <br>
 
@@ -83,11 +126,5 @@ LABLES: Display player scores and whose turn it is. <br>
 BUTTONS: Represent the Tic-Tac-Toe grid, allowing players to make their moves. <br>
 
 
-## FEATURES
-
-
-* Players can enter their names and specify the number of rounds. <br>
-* The game tracks scores and announces the winner after each round. <br>
-* The game concludes after the specified number of rounds, displaying final scores. <br>
-
-
+## Conclusion
+This Tic-Tac-Toe game provides a comprehensive and engaging experience for players, with features that enhance gameplay, track progress, and allow for both competitive and casual play. The implementation is designed to be user-friendly, making it accessible for players of all ages.
