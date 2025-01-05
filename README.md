@@ -1,6 +1,6 @@
-#TIC_TAC_TOE
+# TIC_TAC_TOE
 
-##OVERVIEW
+## OVERVIEW
 
 This documentation provides a comprehensive guide to the Tic-Tac-Toe game implemented using the Tkinter library in Python. The game allows two players to compete against each other, keeping track of scores and rounds.
 
