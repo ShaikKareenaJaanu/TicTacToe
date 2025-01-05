@@ -69,14 +69,14 @@ player1, player2: Strings to store the names of the players. <br>
 total_rounds: Integer to specify how many rounds will be played.<br>
 
 
-# GUI COMPONNTS <br>
+## GUI COMPONNTS <br>
 
 
 LABLES: Display player scores and whose turn it is. <br>
 BUTTONS: Represent the Tic-Tac-Toe grid, allowing players to make their moves. <br>
 
 
-# FEATURES
+## FEATURES
 
 
 * Players can enter their names and specify the number of rounds. <br>
