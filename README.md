@@ -22,40 +22,40 @@ This documentation provides a comprehensive guide to the Tic-Tac-Toe game implem
 * The game concludes after the specified number of rounds, displaying final scores. <br>
 
 
-* Player Name Input and Round Specification:<br>
+* Player Name Input and Round Specification :<br>
 
-Players can enter their names and specify the number of rounds they wish to play at the start of the game.
-The game prompts for Player 1's name (X) and Player 2's name (O) or allows Player 2 to be an AI.<br>
+    Players can enter their names and specify the number of rounds they wish to play at the start of the game.
+  The game prompts for Player 1's name (X) and Player 2's name (O) or allows Player 2 to be an AI.<br>
 
-* Dynamic Game Board<br>
+* Dynamic Game Board :<br>
 
-A 3x3 grid of buttons is created dynamically for the Tic-Tac-Toe game.
-Players click on the buttons to place their marks (X or O).<br> 
+    A 3x3 grid of buttons is created dynamically for the Tic-Tac-Toe game.
+   Players click on the buttons to place their marks (X or O).<br> 
 
-* Score Tracking<br>
+* Score Tracking :<br>
 
-The game keeps track of scores for both players throughout the rounds.
-Scores are displayed and updated after each round.<br>
+     The game keeps track of scores for both players throughout the rounds.
+  Scores are displayed and updated after each round.<br>
 
-* Winner Announcement<br>
+* Winner Announcement :<br>
 
-After each round, the game checks for a winner or a draw.
-A message box displays the winner's name or announces a draw.<br>
+     After each round, the game checks for a winner or a draw.
+  A message box displays the winner's name or announces a draw.<br>
 
-* Game Conclusion<br>
+* Game Conclusion :<br>
 
-The game automatically concludes after the specified number of rounds.
-Final scores are displayed in a message box at the end of the game.<br>
+     The game automatically concludes after the specified number of rounds.
+  Final scores are displayed in a message box at the end of the game.<br>
 
-* Highlight Winning Line<br>
+* Highlight Winning Line :<br>
 
-When a player wins, the winning line (row, column, or diagonal) is visually highlighted in green.
-This feature enhances the visual feedback for players.<br> 
+     When a player wins, the winning line (row, column, or diagonal) is visually highlighted in green.
+   This feature enhances the visual feedback for players.<br> 
 
-* User Interface Elements<br>
+* User Interface Elements :<br>
 
-Labels are used to display player scores and the current player's turn.
-The interface is designed to be intuitive and easy to navigate.<br>
+     Labels are used to display player scores and the current player's turn.
+   The interface is designed to be intuitive and easy to navigate.<br>
 
 ## CODE STRUCTURE <br>
 
