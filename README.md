@@ -60,13 +60,20 @@ Switches the current player and updates the turn label on the GUI. <br>
 ## Global Variables <br>
 
 
-buttons: List to hold button widgets for the Tic-Tac-Toe grid. <br>
-current_player: Tracks whose turn it is ("X" or "O"). <br>
-winner: Stores the winner of the game. <br>
-scores: List to keep track of scores for both players.<br>
-rounds_played: Counter for the number of rounds played. <br>
-player1, player2: Strings to store the names of the players. <br>
-total_rounds: Integer to specify how many rounds will be played.<br>
+* buttons:<br>
+   List to hold button widgets for the Tic-Tac-Toe grid. <br>
+* current_player:<br>
+Tracks whose turn it is ("X" or "O"). <br>
+* winner:<br>
+ Stores the winner of the game. <br>
+* scores:<br>
+ List to keep track of scores for both players.<br>
+* rounds_played:<br>
+ Counter for the number of rounds played. <br>
+* player1, player2:<br>
+ Strings to store the names of the players. <br>
+* total_rounds:<br>
+ Integer to specify how many rounds will be played.<br>
 
 
 ## GUI COMPONNTS <br>
